@@ -1,0 +1,22 @@
+eigenvalue
+eigenvector
+Laplace transform
+Fourier series
+Gaussian elimination
+Newton-Raphson
+partial derivative
+differential equation
+Maclaurin series
+Taylor series
+convergence
+bisection method
+Jacobian
+determinant
+vector space
+continuity
+characteristic polynomial
+linear transformation
+orthogonal matrix
+eigenbasis
+gradient descent
+matrix inversion

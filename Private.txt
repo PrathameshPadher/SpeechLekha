@@ -1,0 +1,1 @@
+# AWS credentials configured in ~/.aws/credentials

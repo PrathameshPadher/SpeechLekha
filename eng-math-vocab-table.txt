@@ -1,0 +1,23 @@
+Phrase	IPA	SoundsLike	DisplayAs
+eigenvalue			eigenvalue
+eigenvector			eigenvector
+Laplace-transform			Laplace transform
+Fourier-series			Fourier series
+Gaussian-elimination			Gaussian elimination
+Newton-Raphson			Newton-Raphson
+partial-derivative			partial derivative
+differential-equation			differential equation
+Maclaurin-series			Maclaurin series
+Taylor-series			Taylor series
+convergence			convergence
+bisection-method			bisection method
+Jacobian			Jacobian
+determinant			determinant
+vector-space			vector space
+continuity			continuity
+characteristic-polynomial			characteristic polynomial
+linear-transformation			linear transformation
+orthogonal-matrix			orthogonal matrix
+eigenbasis			eigenbasis
+gradient-descent			gradient descent
+matrix-inversion			matrix inversion
